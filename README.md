@@ -22,4 +22,5 @@
   <div style="display: inline block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img align="center" altr="JS" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
 </div><br/>
