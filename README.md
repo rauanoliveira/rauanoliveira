@@ -22,5 +22,5 @@
   <div style="display: inline block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img align="center" altr="JS" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
+   <img align="center" altr="JS" src="[https://img.shields.io/badge/logo-javascript-blue?logo=javascript](https://camo.githubusercontent.com/ce6d598510de1a8ecf703ff8517155cecc610a4de25491ed71310105f8a1f12b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4630444234463f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463044423446)"/>
 </div><br/>
